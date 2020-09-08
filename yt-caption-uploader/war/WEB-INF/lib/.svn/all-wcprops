@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib
+END
+datanucleus-core-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/datanucleus-core-1.1.5.jar
+END
+gdata-core-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/gdata-core-1.0.jar
+END
+datanucleus-appengine-1.0.8.final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/datanucleus-appengine-1.0.8.final.jar
+END
+jsr107cache-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/jsr107cache-1.1.jar
+END
+gdata-youtube-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/gdata-youtube-2.0.jar
+END
+appengine-jsr107cache-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/appengine-jsr107cache-1.4.0.jar
+END
+gdata-client-meta-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/gdata-client-meta-1.0.jar
+END
+geronimo-jpa_3.0_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar
+END
+google-collect-1.0-rc1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/google-collect-1.0-rc1.jar
+END
+geronimo-jta_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar
+END
+datanucleus-jpa-1.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/datanucleus-jpa-1.1.5.jar
+END
+appengine-api-1.0-sdk-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/appengine-api-1.0-sdk-1.4.0.jar
+END
+gdata-client-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/gdata-client-1.0.jar
+END
+gdata-media-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/gdata-media-1.0.jar
+END
+jdo2-api-2.3-eb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/jdo2-api-2.3-eb.jar
+END
+appengine-api-labs-1.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/appengine-api-labs-1.4.0.jar
+END
+gdata-youtube-meta-2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/lib/gdata-youtube-meta-2.0.jar
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/web.xml
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/appengine-web.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/yt-caption-uploader/war/WEB-INF/logging.properties
+END

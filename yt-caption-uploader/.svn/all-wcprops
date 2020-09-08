@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/yt-caption-uploader
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/yt-caption-uploader/.project
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/yt-caption-uploader/COPYING
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/yt-caption-uploader/.checkstyle
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5/trunk/yt-caption-uploader/README
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/yt-caption-uploader/.classpath
+END

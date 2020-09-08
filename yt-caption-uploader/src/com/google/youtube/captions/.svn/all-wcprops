@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions/Util.java
+END
+GenerateUploadUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions/GenerateUploadUrl.java
+END
+BlobUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions/BlobUpload.java
+END
+GenerateChannelToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions/GenerateChannelToken.java
+END
+AuthSubLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions/AuthSubLogin.java
+END
+SubmitCaptionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions/SubmitCaptionTask.java
+END
+AuthSubLogout.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/yt-caption-uploader/src/com/google/youtube/captions/AuthSubLogout.java
+END
